@@ -4,3 +4,4 @@ install/
 install/*
 log/
 log/*
+*.zip
